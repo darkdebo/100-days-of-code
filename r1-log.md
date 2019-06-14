@@ -9,3 +9,6 @@ today i learn quickfind and quickunion.quickunion follow the tree data structure
 implement in python.These use for Dynamic connectivity problem.
 
 ### R1D2
+today I learn about adjacent matrix and adjacent list
+in graph. Best way to learn them.and learn how to use termux
+As a code editor.
