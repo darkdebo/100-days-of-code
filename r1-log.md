@@ -32,3 +32,15 @@ But this trip boost me for coding morea and complete this
  '
 v
 #100DaysOfCode #301DaysOfCode
+
+### R1D5
+Let's celebrate day5⃣
+Today I studied about
+✅Time complexity and various notations.
+✅Some regression models 
+Like linear regression and polynomial regression.
+✅ Practice some questions to get the Bigg very big 🅾.
+✓try some video on graph.
+#100DaysOfCode 
+#301DaysOfCode 
+📱⚡
