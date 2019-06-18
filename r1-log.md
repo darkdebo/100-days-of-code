@@ -21,7 +21,7 @@ Quick union and path compression to make more efficiently solve dynamic connecti
 Now for time to learn some linear regression.
 #100DaysOfCode #301DaysOfCode
 
-###R1D4
+### R1D4
 It's day 4⃣
 Nothing done that day,I was
 Going with my friends for some fun and we did some great fun.
