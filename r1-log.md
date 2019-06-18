@@ -20,3 +20,15 @@ I do some improvement in quick union algorithms with weigthtened
 Quick union and path compression to make more efficiently solve dynamic connectivity problems.
 Now for time to learn some linear regression.
 #100DaysOfCode #301DaysOfCode
+
+###R1D4
+It's day 4⃣
+Nothing done that day,I was
+Going with my friends for some fun and we did some great fun.
+But some reason my mind was upset.
+For this I can't give any update
+About challenge.
+But this trip boost me for coding morea and complete this
+ '
+v
+#100DaysOfCode #301DaysOfCode
