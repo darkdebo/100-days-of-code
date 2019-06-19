@@ -44,3 +44,12 @@ Like linear regression and polynomial regression.
 #100DaysOfCode 
 #301DaysOfCode 
 📱⚡
+
+### R1D6
+Day6⃣--------->
+Done only
+⚡⚡ linked list and it's
+Some properties add,remove, enumeration.
+⚡⚡Some basics of stack.
+#100DaysOfCode #301DaysOfCode
+
