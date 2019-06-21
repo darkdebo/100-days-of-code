@@ -1,30 +1,29 @@
-# 100 Days Of Code - Log
+R1D1
+today i learn quickfind and quickunion.quickunion follow the tree data structure and quickfind follow the linear data structure. implement in python.These use for Dynamic connectivity problem.
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+R1D2
+today I learn about adjacent matrix and adjacent list in graph. Best way to learn them.and learn how to use termux As a code editor.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+R1D3
+Now in Day3⃣ What I done..... I do some improvement in quick union algorithms with weigthtened Quick union and path compression to make more efficiently solve dynamic connectivity problems. Now for time to learn some linear regression. #100DaysOfCode #301DaysOfCode
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+R1D4
+It's day 4⃣ Nothing done that day,I was Going with my friends for some fun and we did some great fun. But some reason my mind was upset. For this I can't give any update About challenge. But this trip boost me for coding morea and complete this ' v #100DaysOfCode #301DaysOfCode
 
-**Link to work:** [Calculator App](http://www.example.com)
+R1D5
+Let's celebrate day5⃣ Today I studied about white_check_markTime complexity and various notations. white_check_markSome regression models Like linear regression and polynomial regression. white_check_mark Practice some questions to get the Bigg very big 🅾. ✓try some video on graph. #100DaysOfCode #301DaysOfCode iphone⚡
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+R1D6
+Day6⃣---------> Done only ⚡⚡ linked list and it's Some properties add,remove, enumeration. ⚡⚡Some basics of stack. #100DaysOfCode #301DaysOfCode
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+R1D7
+Day 7⃣ was going little slower, Do some study on ✓heap data structures and max,min heap. that's all #100DaysOfCode #301DaysOfCode #Algorithms
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+R1D8
+Day8⃣ nice day it is-
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+      ~~.      ~~. 
+       O       O
+           !!
+       \________/
+✔learn about c++ arrow operator ✔ Supervised, unsupervised and reinforced learning difference. ✔a deeper dive in linear regression #100DaysOfCode. #301DaysOfCode
