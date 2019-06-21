@@ -53,3 +53,26 @@ Some properties add,remove, enumeration.
 ⚡⚡Some basics of stack.
 #100DaysOfCode #301DaysOfCode
 
+### R1D7
+
+Day 7⃣ was going little slower,
+Do some study on 
+✓heap data structures and max,min
+   heap.
+that's all 
+#100DaysOfCode #301DaysOfCode 
+#Algorithms
+
+### R1D8
+Day8⃣ nice day it is-
+
+          ~~.      ~~. 
+           O       O
+               !!
+           \________/
+✔learn about c++ arrow operator
+✔ Supervised, unsupervised and reinforced learning difference.
+✔a deeper dive in linear regression
+#100DaysOfCode.
+#301DaysOfCode
+
