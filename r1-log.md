@@ -76,3 +76,17 @@ Day8⃣ nice day it is-
 #100DaysOfCode.
 #301DaysOfCode
 
+### R1D9
+
+Day9⃣ over.....
+Keep Going with
+✅✅⚡ stack and
+New learned 
+About
+✔queue and it's various operations.
+✓✓implented stack and queue in c 
+And code uploaded in GitHub.
+
+Happy coding...
+#100DaysOfCode #301DaysOfCode 
+#CodeNewbie #Programmer
