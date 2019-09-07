@@ -12,3 +12,28 @@ https://github.com/darkdebo/Cryptopad
 https://crypto101.io
 
 #100DaysOfCode #301DaysOfCode
+
+### L2R3D2:
+   #### Day:2⃣:-) very nice day,today not to much learning but learn about:
+
+1.briefly how node.js works and how this integrate chrome V8 engine with c++.
+
+2.Linux fundamentals as refresh my 
+Linux command learning.
+
+3.use of vim , commands.
+
+#301DaysOfCode #100Daysofcode
+Links in below
+
+##### Node.js tutorial link:
+https://t.co/JO0U1PcJVd
+
+#### Linux basics:
+https://t.co/UoAhBZST6p
+
+#### vim command:
+https://t.co/zweGF8LgFV
+
+#### My understanding writings
+https://t.co/yeXyAmmTYj
