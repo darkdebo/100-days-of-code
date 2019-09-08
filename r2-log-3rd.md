@@ -37,3 +37,12 @@ https://t.co/zweGF8LgFV
 
 #### My understanding writings
 https://t.co/yeXyAmmTYj
+
+### L2R3D3
+#### Day3⃣ fine with Kali Linux 1.installation in virtual box, successfully installed and 
+2.played with the pycrypto module to understand it's working
+3.understand the import and require difference,promises in js.
+
+Plan to see dart and flutter video.
+#100DaysOfCode
+#301DaysOfCode ✌
