@@ -46,3 +46,13 @@ https://t.co/yeXyAmmTYj
 Plan to see dart and flutter video.
 #100DaysOfCode
 #301DaysOfCode ✌
+
+### L2R3D4
+
+#### Day 4⃣ fine day:
+
+1.learning on cyber security basics in college workshop.
+http://2.watch some youtube video on networking clear basics.
+3.push to learn naive bayes for machine learning in udacity.
+4.clear basics of javascript objects
+#100DaysOfCode #301DaysOfCode
