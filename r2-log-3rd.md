@@ -56,3 +56,12 @@ http://2.watch some youtube video on networking clear basics.
 3.push to learn naive bayes for machine learning in udacity.
 4.clear basics of javascript objects
 #100DaysOfCode #301DaysOfCode
+
+####
+
+#### Day6⃣ what I say!?
+1.Don't go college and learning the cs50 video of c programming as refresher and arrays and sorting algorithms.
+2.practice some dart code and love it.vscode really good show you the information.
+#dartlang #programming
+#100DaysOfCode #301DaysOfCode
+#believe #do
