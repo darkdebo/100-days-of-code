@@ -57,7 +57,13 @@ http://2.watch some youtube video on networking clear basics.
 4.clear basics of javascript objects
 #100DaysOfCode #301DaysOfCode
 
-####
+#### Day 5⃣✔ it is finally done with
+
+✅ completed naive Bayes tutorial and working on the project.
+✅some network design in cpt
+✅the most great part is to learn about why we learn computer science in Harvard cs50 course.
+#100daysofcode #301DaysOfCode 
+https://t.co/uDC4tJ0hTA
 
 #### Day6⃣ what I say!?
 1.Don't go college and learning the cs50 video of c programming as refresher and arrays and sorting algorithms.
