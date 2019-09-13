@@ -75,3 +75,10 @@ https://t.co/uDC4tJ0hTA
 #dartlang #programming
 #100DaysOfCode #301DaysOfCode
 #believe #do
+
+### L2R3D7
+
+#### Day7⃣ yes!! It is day 7 I completed the cs50 memory management lecture and web development first portion what is up,http and how it works,that is fine.
+Some fun with dart and learning how to use dynamic programming in my competitive programming problems.
+#100DaysOfCode #dart
+https://t.co/QVZtWVaXD9
