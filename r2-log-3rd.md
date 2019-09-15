@@ -82,3 +82,20 @@ https://t.co/uDC4tJ0hTA
 Some fun with dart and learning how to use dynamic programming in my competitive programming problems.
 #100DaysOfCode #dart
 https://t.co/QVZtWVaXD9
+
+### L2R3D8
+
+### Day 8⃣ 
+Attended the Google flutter workshop and know about many things like 
+*Stateless,statefull,dirty mode of flutter and dart.
+*🔥 base ml kit and how to integrate with firebase.
+
+Thanks to #FlutterWorkshopGDGKol
+#100DaysOfCode #301DaysOfCode 
+#flutter @FlutterDev #dart https://t.co/xq9kRZBGSI
+
+### L2R3D9
+
+#### Day 9⃣⚡⚡ Today is a moderate day for me realized about the
+Namespace and class, constructor, destructor,smart pointer,linking in c++ all of these topics and code practice about these. And successfully run  app on computer first time, great framework #electron.
+#100DaysOfCode.
